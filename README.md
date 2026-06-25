@@ -8,7 +8,6 @@ Documenting my transition from data annotation to AI engineering - Week by week 
 ## Weekly Progress
 
 ### Week 1
-### Week 1
 - [ ] GitHub & public portfolio setup
 - [ ] Chose specialization: Data Engineering
 - [ ] Enrolled in first course: freeCodeCamp SQL Tutorial (4 hours, free on YouTube)
